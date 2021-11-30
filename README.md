@@ -1,6 +1,11 @@
 ## <center> Tecnológico de Monterrey
 ### <center> Modelación de sistemas multiagentes con gráficas computacionales. (TC2008B.1) <br>Actividad integradora<br><br>Manolo Ramírez Pintor<br>A01706155<br>ITESM Campus Querétaro<br>29/11/2021<br>
 
+## Link parte 2
+### No se podía subir porque pesaba más de 25MB!!
+### https://drive.google.com/drive/folders/1KJun4eZpS4uAB_75OCKgQzM3NyFNXhd2?usp=sharing
+#### Intenté hacer lo más y mejor que pude, no acabé pero dejo mi mejor intento. ¡Gracias!
+
 # Actividad integradora 😁
 ### **Link del GitHub:** https://github.com/A01706155/TC2008B.1-Actividad-Integradora/
 
