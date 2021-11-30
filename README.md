@@ -2,7 +2,7 @@
 ### <center> Modelación de sistemas multiagentes con gráficas computacionales. (TC2008B.1) <br>Actividad integradora<br><br>Manolo Ramírez Pintor<br>A01706155<br>ITESM Campus Querétaro<br>29/11/2021<br>
 
 # Actividad integradora 😁
-### **Link del GitHub:** https://github.com/A01706155/M1Actividad-Roomba
+### **Link del GitHub:** https://github.com/A01706155/TC2008B.1-Actividad-Integradora/
 
 ## Mini reto:
 En esta tarea se nos pide realizar un programa de simulación de unos robots que acomodan un almacén y un entorno gráfico en Unity para representarlo siguiendo la siguiente descripción:
